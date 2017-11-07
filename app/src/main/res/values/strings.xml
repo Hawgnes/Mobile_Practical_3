@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btnUpdate">Update Profile</string>
+    <string name="iconWeb">Web</string>
+    <string name="name"></string>
+    <string name="email"></string>
+    <string name="web">Web</string>
+    <string name="phone">phone</string>
+    <string name="mail">Mail</string>
+    <string name="home">Home</string>
+    <string name="btnSave">Save</string>
+    <string name="editEmail">Email</string>
+    <string name="imageUser">User</string>
+    <string name="editName">Name</string>
+    <string name="displayName">Name</string>
+    <string name="displayEmail">Email</string>
+</resources>
